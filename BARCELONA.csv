@@ -1,0 +1,74 @@
+City,District,Neighborhood,Postal,Latitude,Longitude
+Barcelona,Ciutat Vella,El Raval,8001,41.373601,2.168384
+Barcelona,Ciutat Vella,El Barrio Gótico,8002,41.378367,2.175353
+Barcelona,Ciutat Vella,La Barceloneta,8003,41.379057,2.190086
+Barcelona,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",8003,41.38669,2.177982
+Barcelona,Eixample,El Fort Pienc,8013,41.390645,2.178475
+Barcelona,Eixample,La Sagrada Familia,8025,41.399482,2.175593
+Barcelona,Eixample,La Dreta de l'Eixample,8009,41.390608,2.164419
+Barcelona,Eixample,L'Antiga Esquerra de l'Eixample,8036,41.386211,2.158034
+Barcelona,Eixample,La Nova Esquerra de l'Eixample,8150,41.381151,2.153657
+Barcelona,Eixample,Sant Antoni,8015,41.373679,2.164592
+Barcelona,Sants Montjuic,El Poble Sec,8004,41.364324,2.15149
+Barcelona,Sants Montjuic,La Marina del Prat Vermell,8040,41.352626,2.159555
+Barcelona,Sants Montjuic,La Marina de Port,8038,41.356219,2.137948
+Barcelona,Sants Montjuic,La Font de la Guatlla,8004,41.369929,2.146517
+Barcelona,Sants Montjuic,Hostafrancs,8014,41.372676,2.146076
+Barcelona,Sants Montjuic,La Bordeta,8014,41.369921,2.140996
+Barcelona,Sants Montjuic,Sants - Badal,8028,41.373061,2.129023
+Barcelona,Sants Montjuic,Sants,8038,41.373745,2.135835
+Barcelona,Les Corts,Les Corts,8028,41.386188,2.131724
+Barcelona,Les Corts,La Maternitat i Sant Ramon,8028,41.380424,2.11402
+Barcelona,Les Corts,Pedralbes,8034,41.389262,2.123394
+Barcelona,Sarriá -Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",8017,41.42822,2.092727
+Barcelona,Sarriá -Sant Gervasi,Sarriá,8017,41.40644,2.10314
+Barcelona,Sarriá -Sant Gervasi,Les Tres Torres,8017,41.392583,2.12829
+Barcelona,Sarriá -Sant Gervasi,Sant Gervasi - La Bonanova,8022,41.402996,2.129338
+Barcelona,Sarriá -Sant Gervasi,Sant Gervasi - Galvany,8021,41.393865,2.135779
+Barcelona,Sarriá -Sant Gervasi,El Putget i Farró,8023,41.404199,2.143027
+Barcelona,Gracia,Vallcarca i els Penitents,8023,41.41749,2.133941
+Barcelona,Gracia,El Coll,8032,41.415417,2.150335
+Barcelona,Gracia,La Salut,8024,41.408944,2.148123
+Barcelona,Gracia,La Vila de Gràcia,8012,41.405904,2.154199
+Barcelona,Gracia,El Camp d'en Grassot i GrÃ cia Nova,8025,41.409129,2.158029
+Barcelona,Gracia,El Baix Guinard,8025,41.410975,2.163276
+Barcelona,Gracia,Can Baró,8024,41.414292,2.159781
+Barcelona,Gracia,El Guinardó,8025,41.42105,2.175547
+Barcelona,Gracia,La Font d'en Fargues,8032,41.423585,2.168048
+Barcelona,Horta-Guinardó,El Carmel,8032,41.420459,2.151881
+Barcelona,Horta-Guinardó,La Teixonera,8035,41.421837,2.146839
+Barcelona,Horta-Guinardó,Sant GenÃ­s dels Agudells,8032,41.425304,2.133443
+Barcelona,Horta-Guinardó,Montbau,8035,41.441055,2.13027
+Barcelona,Horta-Guinardó,La Vall d'Hebron,8035,41.425281,2.144167
+Barcelona,Horta-Guinardó,La Clota,8035,41.426325,2.151757
+Barcelona,Horta-Guinardó,Horta,8032,41.425447,2.159698
+Barcelona,Horta-Guinardó,Vilapicina i la Torre Llobeta,8031,41.428287,2.179026
+Barcelona,Horta-Guinardó,Porta,8016,41.434147,2.173156
+Barcelona,Horta-Guinardó,El Turó de la Peira,8031,41.429272,2.17138
+Barcelona,Horta-Guinardó,Can Peguera,8031,41.432459,2.165123
+Barcelona,Nou Barris,La Guineueta,8042,41.436608,2.163644
+Barcelona,Nou Barris,Canyelles,8042,41.442881,2.163151
+Barcelona,Nou Barris,Les Roquetes,8030,41.445569,2.170731
+Barcelona,Nou Barris,Verdun,8042,41.442439,2.173846
+Barcelona,Nou Barris,La Prosperitat,8016,41.438954,2.179045
+Barcelona,Nou Barris,La Trinitat Nova,8033,41.450772,2.18545
+Barcelona,Nou Barris,Torre Baró,8033,41.453625,2.173977
+Barcelona,Nou Barris,Ciutat Meridiana,8033,41.461778,2.176489
+Barcelona,Nou Barris,Vallbona,8033,41.458774,2.171685
+Barcelona,Nou Barris,La Trinitat Vella,8033,41.461873,2.183948
+Barcelona,Nou Barris,Baro De Viver ,8030,41.449596,2.189436
+Barcelona,Nou Barris,El Bon Pastor,8021,41.44434,2.199296
+Barcelona,Nou Barris,Sant Andreu,8030,41.436632,2.207082
+Barcelona,Sant Andreu,La Sagrera,8027,41.43035,2.188042
+Barcelona,Sant Andreu,El Congrés i els Indians,8027,41.425245,2.190421
+Barcelona,Sant Andreu,Navas,8027,41.421801,2.182797
+Barcelona,Sant Andreu,El Camp de l'Arpa del Clot,8027,41.420551,2.182967
+Barcelona,Sant Andreu,El Clot,8027,41.412507,2.184065
+Barcelona,Sant Andreu,El Parc i la Llacuna del Poblenou,8018,41.405328,2.186908
+Barcelona,Sant Martí,La Vila Olímpica del Poblenou,8005,41.393421,2.1913
+Barcelona,Sant Martí,El Poblenou,8005,41.391359,2.197048
+Barcelona,Sant Martí,Diagonal Mar i el Front MarÃ­tim del Poblenou,8019,41.394754,2.197597
+Barcelona,Sant Martí,El Besòs i el Maresm,8019,41.407041,2.2095
+Barcelona,Sant Martí, Provençals del Poblenou ,8019,41.413002,2.216593
+Barcelona,Sant Martí,Sant Marta de Provençals,8020,41.408748,2.199995
+Barcelona,Sant Martí,La Verneda i la Pau,8018,41.415688,2.202289
